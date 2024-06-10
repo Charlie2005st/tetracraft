@@ -1,322 +1,526 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718054484765 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718054688998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054487869 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054692044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054490941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054695106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054494005 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054698177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054497054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054701280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054500108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054704411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054503154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054707489 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054506204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054710531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054509267 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054713595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054512359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054716652 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054515409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054719700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054518472 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054722756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054521530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054725796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054524585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054728857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054527671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054731934 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054530825 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054735024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054533887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054738075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054536926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054741109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054539976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054744158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054543033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054747209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054546086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054750267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054549176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054753314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054552225 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054756405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054555289 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054759457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054558375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054762512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054561433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054765550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054564476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054768629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054567518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054771683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054570572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054774742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054573642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054777892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054576715 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054780958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054579787 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054784029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054583034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054787095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054586112 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054790176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054589191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054793215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054592235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054796263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054595287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054799321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054598325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054802396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054601460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054805450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054604550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054808537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054607635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054811597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054610671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054814671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054613734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054817730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054616769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054820766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054619817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054823820 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054622860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054826918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054625918 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054829987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054628963 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054833046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054632006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054836083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054635064 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054839118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054638116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054842179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054641165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054845240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054644217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054848430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718054647257 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718054851566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054854628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054857716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054860789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054863825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054866869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054869911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054872960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054876001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054879055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054882175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054885234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054888296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054891355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054894433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054897550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054900612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054903668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054906725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054909767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054912813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054915861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054918923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054922003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054925059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054928094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054931147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054934206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054937258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054940331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054943379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054946477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054949532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054952593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718054955648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
