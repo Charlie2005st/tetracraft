@@ -1168,3 +1168,15 @@ max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
 TUNNELS
 association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721924354799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721924357910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+association-cluster.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+max-royalty.gl.at.ply.gg:1804 => 127.0.0.1:1804 (proto: Udp, port count: 1)
